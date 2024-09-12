@@ -3,7 +3,7 @@ h1{
   background-color: gray;
 }
 table, th,td{
-  width:65vw;
+  width: 1050px;
   border: 2px solid;
 }
 th{
