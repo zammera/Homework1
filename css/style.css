@@ -4,6 +4,7 @@ h1{
 }
 table, th,td{
   width:65vw;
+  width: 1050px;
   border: 2px solid;
 }
 th{
